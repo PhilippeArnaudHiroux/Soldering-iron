@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=7-segment.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=7-segment.SchDoc|FileName=display.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=7-segment.SchDoc|FileName=encoder.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=7-segment.SchDoc|FileName=IC3.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=7-segment.SchDoc|FileName=mosfet.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=7-segment.SchDoc|FileName=Omvorming.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=7-segment.SchDoc|FileName=Opamps.SchDoc|SheetNumber=3
